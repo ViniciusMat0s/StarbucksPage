@@ -6,10 +6,10 @@ Nesta manhã, chegou a minha vez de passar pelo evento canônico de todo desenvo
 
 Uma Landing baseada no projeto da própria B7WEB e da NicePage, porém, com algumas diferenças, principalmente entre os códigos feitos por mim e pelo criador do conteúdo. Sempre priorizando a semântica, o clean code e o perfeito entendimento do código, setorizei cada elemento do site, deixando claro - tanto na marcação, quanto na estilização - o que se trata cada item, uma boa prática que utilizo em todos meus projetos.
 
-✅ Desenvolvimento utilizando apenas HTML e CSS.
-✅ Utilização de Display Grid.
-✅ Design 100% responsivo.
-✅ Seções comentadas e marcadas para melhor entendimento.
+✅ Desenvolvimento utilizando apenas HTML e CSS.<br>
+✅ Utilização de Display Grid.<br>
+✅ Design 100% responsivo.<br>
+✅ Seções comentadas e marcadas para melhor entendimento.<br>
 ✅ Baseado no projeto original da NicePage e referência da B7WEB.
 
 ## Desafio
