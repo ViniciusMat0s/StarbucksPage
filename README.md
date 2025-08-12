@@ -1,4 +1,4 @@
-# Tribute page
+# Starbucks Page
 Projeto desenvolvido para o curso Full Stack da B7WEB.
 ##
 
